@@ -1,0 +1,32 @@
+I"N<div id="archives">
+
+  <div class="archive-group">
+    
+    <div id="#HTML"></div>
+    <p></p>
+    
+    <h3 class="category-head">HTML</h3>
+    <a name="HTML"></a>
+    
+    <article class="archive-item">
+      <h4><a href="/welcome/">Code snippets in a blog post</a></h4>
+    </article>
+    
+  </div>
+
+  <div class="archive-group">
+    
+    <div id="#Code"></div>
+    <p></p>
+    
+    <h3 class="category-head">Code</h3>
+    <a name="Code"></a>
+    
+    <article class="archive-item">
+      <h4><a href="/welcome/">Code snippets in a blog post</a></h4>
+    </article>
+    
+  </div>
+
+</div>
+:ET
