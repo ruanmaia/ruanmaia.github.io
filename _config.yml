@@ -9,7 +9,7 @@ name: Ruan Maia
 author: Ruan Maia
 
 # Short bio or description (displayed in the header)
-description: Minhas notas sobre tecnologia
+description: My ideas about Software Engineering
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/rounded_profile.png
@@ -24,7 +24,7 @@ footer-links:
   email: ruancarlos.maia@gmail.com
   facebook:
   flickr:
-  github: 
+  github: https://github.com/ruanmaia
   instagram:
   linkedin: 
   pinterest:

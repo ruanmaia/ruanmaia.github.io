@@ -1,8 +1,20 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
+
+Hey! This is Ruan Carlos Maia. 
+
+I'm a Senior SRE/DevOps Engineer from Brazil <span>&#x1f1e7;&#x1f1f7;</span>. 
+
+I've been working as a software engineer for about 12 years. I started my career as a Python Developer and after some time building code for automate things, I decided to change my path a little bit and dive into the infraestructure universe. 
+
+Without realizing it, I ended up becoming a mixed professional, combining the roles of a software engineer (dev) and a system administrator (ops). By the way, I'd be called a DevOps Engineer :sunglasses:.
+
+So...
+
+Today, my focus is on building and design reliable, scalable and fault-tolerant systems.
 
 [Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
 
